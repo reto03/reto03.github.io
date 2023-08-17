@@ -1,0 +1,77 @@
+body{
+    background-image: url(https://media.istockphoto.com/id/521808596/es/vector/patr%C3%B3n-sin-costuras-vector-geom%C3%A9trico.jpg?s=612x612&w=0&k=20&c=EsROYaSFqftMTucEDSS0AM0QdLfhdFQALBOEaqns0C0=); 
+    color: black;
+    height: 100vh;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+
+
+}
+
+h1{
+    text-align: center;
+    background: white;
+    font-family: 'Handjet', cursive;
+    color: black;
+}
+h4{
+    text-align: center;
+    background: white;
+    color: black;
+    font-family: 'Handjet', cursive;
+}
+main{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.btninput{
+    display: inline-block;
+    float: none;
+    text-align: center;
+    width: 100%;
+  
+
+    }
+    #persona{
+        border: 2px solid #aaa;
+        border-radius: 4px;
+        outline: none;
+        box-sizing: border-box;
+        border-color:#373737;
+    }
+
+    
+
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ul{
+    width: 300px;
+    height: 300px;
+    background: #373737;
+    border-radius: 10%;
+
+}
+
+ul li{
+    display: flex;
+    justify-content: flex-start ;
+    align-items: center;
+    padding: 0px;
+    color: white;
+    font-family: 'Handjet', cursive;
+    padding: 5px;
+
+
+
+   
+    
+}
+.li{
+    align-items: flex-start;
+
+
+}
